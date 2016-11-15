@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springcloud
+  profiles:
+    active: dev,mysql
